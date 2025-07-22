@@ -24,3 +24,5 @@ This is a simple Python program that calculates student grades based on exam, as
 
 ```bash
 python grading_system.py
+HAPPY CODING😁😁😁
+SAY I AM GONNA BUILD A BILLION DOLLAR PROJECT✈🌝
